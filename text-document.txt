@@ -1,0 +1,23 @@
+Document URL - https://stripe.com/docs/examples
+
+Login URL : https://dashboard.stripe.com/login
+User name / Pasword : sureshkumar02@gmail.com / 12345678
+
+Card Number : https://stripe.com/docs/testing
+
+Account Settings you will get Secret Key , Publishable key.
+
+Test Secret Key :  sk_test_r1KHHCqioSFBLv6IPcqSH460
+Test Publishable Key :  pk_test_44I1MZWdtbunNAL0b93uU37b 
+
+data parameters url :: https://stripe.com/docs/checkout
+tutorial : https://stripe.com/docs/checkout/tutorial
+
+
+
+Card Number
+
+4242424242424242	Visa
+4012888888881881 	Visa
+
+CVV/CVV2 : 123
